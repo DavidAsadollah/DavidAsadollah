@@ -1,0 +1,4 @@
+- 👋 Hi, Hello friends. Can anyone help me and find Hisuteproxy for Huawei p40 pro with emui 12? i want to downgrade my huawei to Emui 10.
+- Hisiuteproxy v3.0 worked a month ago. Unfortunately,
+- the owner of this program has ARCHIVED this program.
+- 
